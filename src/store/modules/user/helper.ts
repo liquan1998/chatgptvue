@@ -16,7 +16,7 @@ export function defaultSetting(): UserState {
   return {
     userInfo: {
       avatar: 'https://raw.githubusercontent.com/Chanzhaoyu/chatgpt-web/main/src/assets/avatar.jpg',
-      name: 'fasunsoft',
+      name: 'liquan',
       description: 'base on chatGPT 3.5 turbo',
     },
   }
